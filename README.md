@@ -56,7 +56,7 @@ OS      : doesn't matter, it runs
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=livid96&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15)](https://github.com/livid96)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=livid96&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" />
 
 </div>
 
@@ -66,6 +66,6 @@ OS      : doesn't matter, it runs
 
 ![Profile views](https://komarev.com/ghpvc/?username=livid96&color=a78bfa&style=flat-square&label=profile+views)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer" width="100%"/>
+<img src="[https://capsule-render.vercel.app/api?type=waving](https://static.vecteezy.com/system/resources/thumbnails/014/179/737/small/cute-black-cat-png.png)&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer" width="100%"/>
 
 </div>
