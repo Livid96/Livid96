@@ -56,7 +56,7 @@ OS      : doesn't matter, it runs
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=livid96&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6)](https://github.com/livid96)
+[![trophy](https://github-profile-trophy.vercel.app/?username=livid96&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15)](https://github.com/livid96)
 
 </div>
 
