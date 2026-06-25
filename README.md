@@ -1,58 +1,71 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:1a1a2e&height=120&section=header&animation=fadeIn" width="100%" />
+
+<!-- Dynamic header banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=livid96&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=crafting%20things%20in%20the%20dark&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+
 </div>
 
-&nbsp;
+<div align="center">
 
-<sup>SOFTWARE ENGINEER</sup>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Welcome+to+my+corner+of+the+internet.;Open+source+enjoyer.;Always+building%2C+always+learning.;Feel+free+to+explore+%F0%9F%91%BB)](https://git.io/typing-svg)
 
-# LIVID.
-
-I build things for the web. Obsessed with clean code, fast interfaces,  
-and systems that just work — quietly, reliably, at 3am.
-
-&nbsp;
+</div>
 
 ---
 
-**now**
+### `> whoami`
 
-| | |
-|---|---|
-| 🛠 building | something stealth |
-| 📖 learning | Rust (painfully) |
-| 📍 based in | DHAKA |
-| ☕ fueled by | coffee & curiosity |
+```
+Name    : livid96
+Status  : always cooking something
+Focus   : building useful things, breaking stuff, learning from both
+OS      : doesn't matter, it runs
+```
 
----
-
-**stack**
-
-`TypeScript` `React` `Next.js` `Node.js` `PostgreSQL` `Docker` `Python` `Linux`
+> _"Any sufficiently advanced commit message is indistinguishable from gibberish."_
 
 ---
 
-**projects**
+### `> ls ~/interests`
 
-[**project-one**](https://github.com/yourusername/project-one) — one-liner about what it does
-
-[**project-two**](https://github.com/yourusername/project-two) — one-liner about what it does
-
-[**project-three**](https://github.com/yourusername/project-three) — one-liner about what it does
-
----
-
-**stats**
-
-<img src="https://github-readme-stats.vercel.app/api?username=livid96&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=888888&icon_color=888888&hide_title=true&hide_rank=true" height="130" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=888888" height="130" />
+- 🔭 &nbsp;Poking around with side projects and open source
+- 🌱 &nbsp;Constantly picking up new tools and rabbit holes
+- 🤝 &nbsp;Open to collabs — just open an issue or discussion
+- 💬 &nbsp;Hit me up if you want to talk about anything in my repos
 
 ---
 
-always open to a good conversation. &nbsp; [twitter](https://twitter.com/yourhandle) · [linkedin](https://linkedin.com/in/yourhandle) · [email](mailto:you@example.com)
-
-&nbsp;
+### `> cat stats.json`
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0d0d0d&height=80&section=footer" width="100%" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=livid96&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=818cf8&text_color=c9d1d9" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=livid96&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=818cf8&currStreakLabel=a78bfa" />
+
+</div>
+
+<div align="center">
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=livid96&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=818cf8&point=ffffff&area=true" />
+
+</div>
+
+---
+
+### `> cat trophies.log`
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=livid96&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6)](https://github.com/livid96)
+
+</div>
+
+---
+
+<div align="center">
+
+![Profile views](https://komarev.com/ghpvc/?username=livid96&color=a78bfa&style=flat-square&label=profile+views)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer" width="100%"/>
+
 </div>
