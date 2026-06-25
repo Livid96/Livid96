@@ -44,7 +44,7 @@ and systems that just work — quietly, reliably, at 3am.
 
 **stats**
 
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=888888&icon_color=888888&hide_title=true&hide_rank=true" height="130" />
+<img src="https://github-readme-stats.vercel.app/api?username=livid96&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=888888&icon_color=888888&hide_title=true&hide_rank=true" height="130" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=888888" height="130" />
 
 ---
